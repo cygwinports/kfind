@@ -1,0 +1,9 @@
+inherit kf5
+
+NAME="kfind"
+VERSION=17.04.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE file finder utility"
+DESCRIPTION="The Find Files tool is a useful method of searching for specific
+files on your computer, or for searching for files that match a pattern."
